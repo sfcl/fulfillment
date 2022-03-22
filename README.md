@@ -15,8 +15,8 @@
 Скриншоты
 -----------
 
-![Alt text](imgs/1.png?raw=true "Title")
+![Выбор юр. лица](imgs/1.png?raw=true "Выбор юр. лица")
 
-![Alt text](imgs/2.png?raw=true "Title")
+![Информация о балансе](imgs/2.png?raw=true "Информация о балансе")
 
-![Alt text](imgs/3.png?raw=true "Title")
+![Выбор времени уведомления](imgs/3.png?raw=true "Выбор времени уведомления")
